@@ -20,7 +20,7 @@ To build a regression model that predicts the **percentage score** of students b
 - NumPy  
 - Matplotlib & Seaborn (for data visualization)  
 - Scikit-learn (for model building)
-
+-joblib(deployment)
 ---
 
 ## 📊 Dataset
