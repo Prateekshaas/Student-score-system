@@ -35,3 +35,5 @@ Hours,Scores
 5.1,47
 3.2,27
 ...
+
+![Screenshot](Screenshot-2025-08-04-165756.png)
