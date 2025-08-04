@@ -27,6 +27,8 @@ To build a regression model that predicts the **percentage score** of students b
 A small dataset of students containing:
 - **Hours**: Number of hours studied
 - **Scores**: Percentage score obtained
+- ![Screenshot](Screenshot-2025-08-04-165756.png)
+
 
 Example:
 ```csv
@@ -36,4 +38,3 @@ Hours,Scores
 3.2,27
 ...
 
-![Screenshot](Screenshot-2025-08-04-165756.png)
